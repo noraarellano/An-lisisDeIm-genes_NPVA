@@ -6,6 +6,8 @@ import java.awt.geom.AffineTransform;
 import java.awt.image.BufferedImage;
 
 //ÚLTIMA TAREA: LIENZO CONTROLADO
+//Solo correr este archivo!
+
 public class LienzoControlado extends JFrame {
     private BufferedImage imagen;
     private int x = 0;
